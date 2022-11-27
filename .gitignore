@@ -3,4 +3,4 @@ logs
 *.swo
 *.swp
 *.cache
-build
+../../../../var/www/html/new/build

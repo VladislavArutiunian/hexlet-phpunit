@@ -1,4 +1,5 @@
 <?php
+
 namespace Hexlet\Phpunit\Utils;
 
 // Эта функция переворачивает переданную строку
